@@ -17,7 +17,7 @@ locals {
 
   #=====Codepipeline======
   GitHubBranch     = "main"
-  GitHubOAuthToken = "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"
+  GitHubOAuthToken = "****"
   GitHubOwner      = "trextozyne"
   GitHubRepo       = "aws_ci_cd-python_app"
 
