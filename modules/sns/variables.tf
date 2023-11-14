@@ -1,0 +1,4 @@
+
+variable "NotificationEmail" {
+  #  default = ""
+}
